@@ -1,0 +1,2 @@
+# ckcollab-demo
+Trying DJango
